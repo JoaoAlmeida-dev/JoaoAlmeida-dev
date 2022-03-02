@@ -24,7 +24,7 @@ Im a Computer Science Student who is on his way to become a Master.
 
 Currently learning Flutter and C++ but with most of my experience in Java, Spring, C#, Python, Django and others.
 
-I have Experience and Enjoy working with co-workers through the SCRUM Methodology
+I have a wide learning experience and had the chance to work on many multi-cultural teams developing projects inside and outside my university.
 
 ---
 
@@ -47,6 +47,8 @@ I have Experience and Enjoy working with co-workers through the SCRUM Methodolog
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://clipground.com/images/scrum-logo-clipart.jpg" title="SCRUM" alt="Scrum" width="40" height="40"/>&nbsp;
+  
 </div>
 
 
