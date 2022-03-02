@@ -20,9 +20,9 @@
 
 ### Hi there 👋
 
-Im a Computer Science Student who is on their way to become a Master.
+Im a Computer Science Student who is on his way to become a Master.
 
-Currently learning Flutter and C++ but with most of my experience in Java, Spring, C#, Python and others.
+Currently learning Flutter and C++ but with most of my experience in Java, Spring, C#, Python, Django and others.
 
 I have Experience and Enjoy working with co-workers through the SCRUM Methodology
 
