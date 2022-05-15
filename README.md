@@ -57,5 +57,7 @@ I have a wide learning experience and had the chance to work on many multi-cultu
 ### My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoAlmeida-dev&count_private=true&theme=radical)](https://git.io/streak-stats)
 
+### Wakatime of the last week :
+
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Joao_Almeida_dev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
