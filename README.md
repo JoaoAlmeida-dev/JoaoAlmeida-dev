@@ -10,16 +10,15 @@
     <img src="https://img.shields.io/badge/Gmail-blueviolet?style=for-the-badge&logo=Gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=JoaoAlmeida-dev&style=flat-square&color=blueviolet" width="100"/>
   
+<img src="https://komarev.com/ghpvc/?username=JoaoAlmeida-dev&style=flat-square&color=blueviolet" width="100"/>  
+ 
 [![wakatime](https://wakatime.com/badge/user/c9b748c4-5e65-4b03-88d1-6040da34d41a.svg)](https://wakatime.com/@c9b748c4-5e65-4b03-88d1-6040da34d41a)
   
 </div>
 
----
-
-### Hi there 👋
-
+# Hi there 👋, João Almeida
+### Aspiring Backend Dev
 Im a Computer Science Student who is on his way to become a Master.
 
 Currently learning Flutter and C++ but with most of my experience in Java, Spring, C#, Python, Django and others.
