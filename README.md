@@ -23,7 +23,7 @@ Im a Computer Science Student who is on his way to become a Master.
 
 Currently learning Flutter and C++ but with most of my experience in Java, Spring, C#, Python, Django and others.
 
-I have a wide learning experience and had the chance to work on many multi-cultural teams developing projects inside and outside my university.
+I have a wide learning experience and had the chance to work on multiple multi-cultural teams developing projects inside and outside my university.
 
 ---
 
