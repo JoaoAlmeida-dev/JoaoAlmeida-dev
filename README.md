@@ -3,7 +3,7 @@
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/joão-almeida-dev">
+  <a href="https://www.linkedin.com/in/joao-almeida-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:joao.ranger@gmail.com">
