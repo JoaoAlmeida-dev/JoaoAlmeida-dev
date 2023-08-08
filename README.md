@@ -17,7 +17,7 @@
   
 </div>
 
-# Hi there 👋, João Almeida
+#👋João Almeida👋
 ### Aspiring Backend Dev
 Im a Computer Science Student who is on his way to become a Master.
 
