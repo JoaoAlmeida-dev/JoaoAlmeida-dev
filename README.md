@@ -1,5 +1,7 @@
-# João Almeida - Java Software engineer
 <div id="header" align="center">
+  
+# João Almeida - Java Software engineer
+  
   <div id="badges">
     <a href="https://www.linkedin.com/in/joao-almeida-dev/">
       <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -44,11 +46,11 @@ With most of my experience in Java, Spring, Flutter, Python, SciKitLearn, PySpar
 
 
 ---
+### My Stats
+<div id="stats" align="center">
 
-### My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoaoAlmeida-dev&count_private=true&theme=radical)](https://git.io/streak-stats)
 
-### Wakatime of the last week :
-
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Joao_Almeida_dev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
