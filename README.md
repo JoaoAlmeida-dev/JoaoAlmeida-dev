@@ -1,20 +1,15 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
-
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/joao-almeida-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:dev.joaoalmeida@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-blueviolet?style=for-the-badge&logo=Gmail&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/joao-almeida-dev/">
+      <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:dev.joaoalmeida@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-blueviolet?style=for-the-badge&logo=Gmail&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
   
-<img src="https://komarev.com/ghpvc/?username=JoaoAlmeida-dev&style=flat-square&color=blueviolet" width="100"/>  
- 
-[![wakatime](https://wakatime.com/badge/user/c9b748c4-5e65-4b03-88d1-6040da34d41a.svg)](https://wakatime.com/@c9b748c4-5e65-4b03-88d1-6040da34d41a)
-  
+  [![wakatime](https://wakatime.com/badge/user/c9b748c4-5e65-4b03-88d1-6040da34d41a.svg)](https://wakatime.com/@c9b748c4-5e65-4b03-88d1-6040da34d41a)  
+  <img src="https://komarev.com/ghpvc/?username=JoaoAlmeida-dev&style=flat-square&color=blueviolet" width="100"/>  
 </div>
 
 # 👋João Almeida👋
