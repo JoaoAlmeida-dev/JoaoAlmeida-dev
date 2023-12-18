@@ -1,3 +1,4 @@
+# João Almeida - Java Software engineer
 <div id="header" align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/joao-almeida-dev/">
@@ -12,9 +13,8 @@
   <img src="https://komarev.com/ghpvc/?username=JoaoAlmeida-dev&style=flat-square&color=blueviolet" width="100"/>  
 </div>
 
-# 👋João Almeida👋
-### Java Software engineer
-I am a Software engineer on a Fortune 500 company with a Master's degree, working towards a phd in Qauntum computing @ISCTE-IUL.
+### Overview
+I am a Software engineer on a Fortune 500 company with a Master's degree, working towards a phd in Quantum computing @ISCTE-IUL.
 
 With most of my experience in Java, Spring, Flutter, Python, SciKitLearn, PySpark, Django and others.
 
