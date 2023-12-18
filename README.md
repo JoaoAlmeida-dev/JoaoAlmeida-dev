@@ -18,12 +18,10 @@
 </div>
 
 # 👋João Almeida👋
-### Aspiring Backend Dev
-Im a Computer Science Student who is on his way to become a Master.
+### Java Software engineer
+I am a Software engineer on a Fortune 500 company with a Master's degree, working towards a phd in Qauntum computing @ISCTE-IUL.
 
-Currently learning C++ and OpenGl but with most of my experience in Java, Spring, Flutter C#, Python, Django and others.
-
-I have a wide learning experience and had the chance to work on multiple multi-cultural teams developing projects inside and outside my university.
+With most of my experience in Java, Spring, Flutter, Python, SciKitLearn, PySpark, Django and others.
 
 ---
 
@@ -31,6 +29,7 @@ I have a wide learning experience and had the chance to work on multiple multi-c
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="CPlusPlus" alt="CPP" width="40" height="40"/>&nbsp;
@@ -44,7 +43,6 @@ I have a wide learning experience and had the chance to work on multiple multi-c
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://clipground.com/images/scrum-logo-clipart.jpg" title="SCRUM" alt="Scrum" width="40" height="40"/>&nbsp;
   
 </div>
