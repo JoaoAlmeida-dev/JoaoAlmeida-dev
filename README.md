@@ -13,9 +13,8 @@
 </div>
 
 ### Overview
-I am a Software engineer with a Master's degree, working towards a phd in Quantum computing @ISCTE-IUL.
-
-With most of my experience in Java, Spring, Flutter, Python, SciKitLearn, PySpark, Django and others.
+I am a Software engineering student with a Master's degree, working towards a phd in Quantum computing @ISCTE-IUL.
+I have most of my experience in Java, Spring, Flutter, Python, SciKitLearn, PySpark, Django and a bit of React.js.
 
 ---
 
