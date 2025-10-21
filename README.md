@@ -3,6 +3,9 @@
 # João Almeida - Java Software engineer
   
   <div id="badges">
+    <a href="https://www.linkedin.com/in/joao-almeida-dev/">
+      <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
     <a href="mailto:dev.joaoalmeida@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-blueviolet?style=for-the-badge&logo=Gmail&logoColor=white" alt="Twitter Badge"/>
     </a>
