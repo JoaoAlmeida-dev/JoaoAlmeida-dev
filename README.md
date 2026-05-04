@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-# João Almeida - Java Software engineer
+# João Almeida - Software engineer
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/joao-almeida-dev/">
@@ -16,8 +16,8 @@
 </div>
 
 ### Overview
-I am a Software engineering student with a Master's degree, working towards a phd in Quantum computing @ISCTE-IUL.
-I have most of my experience in Java, Spring, Flutter, Python, SciKitLearn, PySpark, Django and a bit of React.js.
+I am a Software engineering student with a Master's degree, working towards a PhD in Quantum computing @ISCTE-IUL.
+I have most of my experience in Java, Spring, Flutter, Python, SciKitLearn, PySpark, Django, Golang and a bit of React.js.
 
 ---
 
