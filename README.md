@@ -16,8 +16,10 @@
 </div>
 
 ### Overview
-I am a Software engineering student with a Master's degree, working towards a PhD in Quantum computing @ISCTE-IUL.
-I have most of my experience in Java, Spring, Flutter, Python, SciKitLearn, PySpark, Django, Golang and a bit of React.js.
+I am a Software engineering student with a master's degree, researcing Quantum computing through a PHD programme at ISCTE-IUL, where I am investigating how to solve complex optimization problems with quantum algorithms and how to use Software modelling to ease the process.
+
+I have most of my experience in AWS native systems with IAC in Terraform, with backend solutions written in Python and Typescript.
+I have also worked with Java, Spring, Flutter, Python, SciKitLearn, PySpark, Django, Golang and a bit of React.js.
 
 ---
 
